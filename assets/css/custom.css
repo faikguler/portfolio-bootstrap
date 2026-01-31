@@ -1,0 +1,9 @@
+section { 
+    min-height: 65vh; 
+    padding-top: 70px; 
+}
+
+.project-image {
+    height: 200px;
+    object-fit: cover;
+}
